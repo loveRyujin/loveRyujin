@@ -5,7 +5,7 @@
 Here are some quick things about me:
 
 - 🔭 I’m currently working as a Back-end Development Engineer.
-- 🌱 I’m currently learning **Go** and **Python**.
+- 🌱 I’m currently learning **Go** and **Python**, and interested in **cloud-native** and **ai**
 - 👯 I’m looking to collaborate on **open source projects**.
 - 🧑‍💻 Love coding and love reading!
 
